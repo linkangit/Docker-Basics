@@ -9,7 +9,7 @@ This hands-on guide walks you from zero to publishing a production-ready image. 
 * A terminal.
 * A Docker Hub or GitHub Container Registry (GHCR) account (optional, for pushing).
 
-## 1) Core concepts (super short)
+## 1) Core concepts
 
 * **Image**: Read-only template with your app + OS packages.
 * **Container**: A running instance of an image (with its own filesystem, process tree, network).
