@@ -3,7 +3,7 @@
 This hands-on guide walks you from zero to publishing a production-ready image. We’ll focus on Docker **images** (what you “generate”) and **containers** (what you run).
 
 
-## 0) What you’ll need
+## What you’ll need
 
 * Docker Desktop (macOS/Windows) or Docker Engine (Linux).
 * A terminal.
